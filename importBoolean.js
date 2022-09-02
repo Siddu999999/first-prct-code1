@@ -1,2 +1,1 @@
-const booleanValue = true;
-module.exports = booleanValue;
+const canDance = require("./importBoolean");
